@@ -8,6 +8,9 @@ homebrew_packages:
 - pypy
 - zsh-completions
 - youtube-dl
+- gpg2
+- hopenpgp-tools
+- openssl
 
 homebrew_cask_packages:
 - docker
